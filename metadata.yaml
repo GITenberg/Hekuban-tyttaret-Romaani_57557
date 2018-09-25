@@ -1,5 +1,5 @@
 _repo: Hekuban-tyttaret-Romaani_57557
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Walldén, Hilja
@@ -7,6 +7,9 @@ contributor:
     birthdate: 1871
     gutenberg_agent_id: '42640'
     url: http://www.gutenberg.org/2009/agents/42640
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Viebig, Clara
@@ -20,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34774
     wikipedia: http://de.wikipedia.org/wiki/Clara_Viebig
 description: Translation of "Töchter der Hekuba"
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57557#Hekuban-tyttaret-Romaani
 gutenberg_issued: '2018-07-21'
 gutenberg_type: Text
 identifiers:
